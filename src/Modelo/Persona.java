@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebagit;
+package Modelo;
 
 /**
  *
  * @author pxndx
  */
-public class PruebaGit {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Prueba");
-    }
+public class Persona {
     
 }
