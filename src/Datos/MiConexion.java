@@ -16,6 +16,9 @@ public class MiConexion {
         if("Somos cabrones".equals("Somos cabrones")) {
             System.out.println("HUEVOS PERROOOOOOOOS");
         }
+        else{
+            System.out.println("");
+        }
     }
     
 }
