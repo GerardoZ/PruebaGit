@@ -10,5 +10,7 @@ package Controlador;
  * @author pxndx
  */
 public class ControladorPersona {
-    
+    public static void main(String[] args) {
+        
+    }
 }
